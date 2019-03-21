@@ -41,11 +41,11 @@
 
 // Getting to Know You 
 
-const kenny = ["Kenny", 1000, "Austin"];
-const jimHaff = ["Jim H", 16, "All cities"];
-const reuben = ["Reuben", 22, "Durham"];
-const jimClark = ["Jim C", 186, "LA"];
-const ryan = ["Ryan", 65, "Denver"];
+// const kenny = ["Kenny", 1000, "Austin"];
+// const jimHaff = ["Jim H", 16, "All cities"];
+// const reuben = ["Reuben", 22, "Durham"];
+// const jimClark = ["Jim C", 186, "LA"];
+// const ryan = ["Ryan", 65, "Denver"];
 
 // 1
 
@@ -98,12 +98,56 @@ const ryan = ["Ryan", 65, "Denver"];
 //         if (j % 2 === 0) {
 //             mixedTurtle += thisTurtle[j].toUpperCase();
 //         } else {
-//             mixedTurtle += thisTurtle[j]
+//             mixedTurtle += thisTurtle[j].toLowerCase();
 //         }
 //     }
 //     console.log(mixedTurtle);
 // }
-    
+
+
+// Return of the Closets
+
+// const kristynsCloset = [
+//     "left shoe",
+//     "cowboy boots",
+//     "right sock",
+//     "GA hoodie",
+//     "green pants",
+//     "yellow knit hat",
+//     "marshmallow peeps"
+//   ];
+
+// const thomsCloset = [
+//     [
+//       // These are Thom's shirts
+//       "grey button-up",
+//       "dark grey button-up",
+//       "light blue button-up",
+//       "blue button-up",
+//     ],[
+//       // These are Thom's pants
+//       "grey jeans",
+//       "jeans",
+//       "PJs"
+//     ],[
+//       // Thom's accessories
+//       "wool mittens",
+//       "wool scarf",
+//       "raybans"
+//     ]
+//   ];
+
+// Alien Attire #1
+
+// kristynsCloset.splice(0, 1);
+// let kristynsShoe = 'left shoe';
+// thomsCloset[2].push(kristynsShoe);
+
+// Dress 'em up #1
+
+// console.log('Thom is wearing a ' + thomsCloset[0][0] + ' with ' + thomsCloset[1][0] + ' and ' + thomsCloset[2][2]);
+// console.log('Thom is wearing a ' + thomsCloset[0][3] + ' with ' + thomsCloset[1][1] + ' and a ' + thomasCloset[2][1]);
+// console.log('Thom is wearing a ' + thomsCloset[0][2] + ' with ' + thomsCloset[1][2] + ' and ' + thomasCloset[2][0]);    
 
 
 
