@@ -70,7 +70,47 @@ const ryan = ["Ryan", 65, "Denver"];
 
 // 5
 
-jimHaff.pop().push("LA, SF, SD");
+// jimHaff.splice(2, 1, "LA", "SF", "SD")
+
+// 6
+
+// jimHaff.splice(2, 1)
+
+
+// Yell at the Ninja Turtles 
+
+// #1
+
+// const turtles = ['Donatello', 'Leonardo', 'Raphael', 'Michaelangelo'];
+
+// #2
+
+// for (let i = 0; i < turtles.length; i++) {
+//    console.log(turtles[i].toUpperCase());
+// };
+
+// Bonus 
+
+// for (let i = 0; i < turtles.length; i++) {
+//     let thisTurtle = turtles[i];
+//     let mixedTurtle = '';
+//     for (let j = 0; j < thisTurtle.length; i++) {
+//         if (j % 2 === 0) {
+//             mixedTurtle += thisTurtle[j].toUpperCase();
+//         } else {
+//             mixedTurtle += thisTurtle[j]
+//         }
+//     }
+//     console.log(mixedTurtle);
+// }
+    
+
+
+
+
+
+
+
 
 
 
