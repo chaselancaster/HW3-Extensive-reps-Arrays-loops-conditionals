@@ -149,7 +149,17 @@
 // console.log('Thom is wearing a ' + thomsCloset[0][3] + ' with ' + thomsCloset[1][1] + ' and a ' + thomasCloset[2][1]);
 // console.log('Thom is wearing a ' + thomsCloset[0][2] + ' with ' + thomsCloset[1][2] + ' and ' + thomasCloset[2][0]);    
 
+// Dirt Laundry 
 
+// #1 
+
+// for (let i = 0; i < kristynsCloset.length; i++) {
+//     console.log('WHIRR: Now washing ' + kristynsCloset[i]);
+// }
+
+// #2
+
+// console.log(thomsCloset[0], thomsCloset[1], thomsCloset[2]);
 
 
 
